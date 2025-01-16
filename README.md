@@ -1,7 +1,7 @@
 # React + Vite
 ## Calculadora con Tema Oscuro y Claro
 
-Este es un componente creado con React y styled-components, que muestra mis habilidades como desarrollador full-stack.
+Esta es una calculadora básica creada con React y styled-components, que muestra mis habilidades como desarrollador full-stack.
 
 ## Demo
 

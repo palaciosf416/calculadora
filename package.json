@@ -1,6 +1,7 @@
 {
   "name": "calculadora",
   "private": true,
+  "homepage": "http://palaciosf416.github.io/calculadora",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

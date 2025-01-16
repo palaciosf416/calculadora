@@ -6,10 +6,10 @@ Este es un componente creado con React y styled-components, que muestra mis habi
 ## Demo
 
 ### Modo Oscuro
-<img src="./calculadoraDark.jpg" alt="Modo Oscuro" width="1080"/>
+<img src="./calculadoraDark.JPG" alt="Modo Oscuro" width="1080"/>
 
 ### Modo Claro
-<img src="./calculadoraLight.jpg" alt="Modo Claro" width="1080"/>
+<img src="./calculadoraLight.JPG" alt="Modo Claro" width="1080"/>
 
 También puedes consultar la demostración en vivo.
 
